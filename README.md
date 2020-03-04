@@ -1,1 +1,1 @@
-# responsive-portfolio
+A rough draft design of my personal portfolio website
