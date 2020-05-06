@@ -29,6 +29,24 @@
     width: 100%;
     text-align: center;
   }
+
+  .header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    text-align: center;
+  }
+
+  .info {
+    display: inline-block;
+    text-align: center;
+  }
+
+
+  .raleway {
+    font-family: 'Raleway', sans-serif;
+  }
   
   @media screen and (max-width: 900px) {
     .column {
